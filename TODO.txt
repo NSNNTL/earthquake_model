@@ -2,3 +2,17 @@
 - create a hypermodel that tests the loss terms and collects data
 - test out various biomimetic optimizers (like cuckoo search)
 - test the model with smaller amounts of data
+
+
+Update by Yan Lu 11.11.24:
+Baby steps before retrain the model:
+1. visulize the extracted patches including damaged/undamaged.
+2. setup access and project on a remontely accessible GPU machine (either the one in lab/the department GPU cluster)
+
+After all setup
+3. generate synthetic patches to improve the classification results
+
+Goal:
+CCI symposium conference. Jan 17th deadline
+Student reserach showcase 2025
+IGARSS 2025
