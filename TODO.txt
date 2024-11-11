@@ -1,2 +1,7 @@
 - refactor to just basically use pytorch
 - WRITE README
+
+Before Training the model, we would like to take some baby steps:
+
+1. Visualize the patches (all patches extracted in RGB, and the damaged patches)
+2. Setup this project on a GPU machine with remote login (either the GPU machine in the student lab or Dept GPU cluster)
